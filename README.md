@@ -1,13 +1,7 @@
 # Chat!fy
-
-# Chat!fy - AI Chatbot Interface
-
-[Live Demo](#) | [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-
-A modern chatbot interface integrated with Google's Gemini AI for natural conversations. Features image analysis capabilities and real-time interactions.
-
-![Chatify Screenshot](./screenshot.png)
-
+![Chatify Screenshot](C:\Users\Dell\Desktop\codecave\bckup\AI-chatbot\Chat-fy\Images\Screenshot 2025-04-01 134417.png)
+![Chatify Screenshot](C:\Users\Dell\Desktop\codecave\bckup\AI-chatbot\Chat-fy\Images\Screenshot 2025-04-01 134429.png)
+![Chatify Screenshot](Chat-fy/Images/Screenshot 2025-04-01 134353.png)
 ## Features
 
 - 🧠 Gemini 1.5 Flash API integration
@@ -21,5 +15,5 @@ A modern chatbot interface integrated with Google's Gemini AI for natural conver
 ## Technologies
 
 - **Frontend**: HTML5, CSS3 (Flexbox/Grid), JavaScript (ES6+)
-- **AI Backend**: Google Gemini API
+- **AI Backend**: Goo .gle Gemini API
 - **Libraries**: Emoji Mart, Material Icons
