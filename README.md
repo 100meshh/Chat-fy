@@ -1,7 +1,9 @@
 # Chat!fy
-![Chatify Screenshot](C:\Users\Dell\Desktop\codecave\bckup\AI-chatbot\Chat-fy\Images\Screenshot 2025-04-01 134417.png)
-![Chatify Screenshot](C:\Users\Dell\Desktop\codecave\bckup\AI-chatbot\Chat-fy\Images\Screenshot 2025-04-01 134429.png)
-![Chatify Screenshot](Chat-fy/Images/Screenshot 2025-04-01 134353.png)
+![Chatify Screenshot](Images/Screenshot2.png)
+![Chatify Screenshot](Images/Screenshot3.png)
+![Chatify Screenshot](Images/Screenshot4.png)
+[Watch the Demo Video](https://www.youtube.com/watch?v=example)
+
 ## Features
 
 - 🧠 Gemini 1.5 Flash API integration
@@ -15,5 +17,5 @@
 ## Technologies
 
 - **Frontend**: HTML5, CSS3 (Flexbox/Grid), JavaScript (ES6+)
-- **AI Backend**: Goo .gle Gemini API
+- **AI Backend**: Google Gemini API
 - **Libraries**: Emoji Mart, Material Icons
